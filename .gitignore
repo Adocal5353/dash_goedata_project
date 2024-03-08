@@ -1,0 +1,5 @@
+my_env
+__pycache__
+fichier_osm
+.ipynb_checkpoints
+./web_scrapping.ipynb
