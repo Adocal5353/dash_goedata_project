@@ -37,6 +37,8 @@ fig.update_layout(title_text="Carte de l'indice de propreté des administrations
 
 # Créer l'application Dash
 app = dash.Dash(__name__)
+
+#céation du serveur 
 server=app.server
 
 # Définir la mise en page de l'application Dash
